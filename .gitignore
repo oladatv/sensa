@@ -8,6 +8,7 @@
 *.aif
 *.flv
 *.wmv
+*.prin
 
 # --- Adobe Premiere Pro Specific ---
 Media Cache/
