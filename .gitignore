@@ -1,0 +1,32 @@
+# --- Video and Audio Files ---
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wav
+*.mp3
+*.aif
+*.flv
+*.wmv
+
+# --- Adobe Premiere Pro Specific ---
+Media Cache/
+Media Cache Files/
+Render Files/
+Proxies/
+Adobe Premiere Pro Auto-Save/
+Adobe Premiere Pro Audio Previews/
+Adobe Premiere Pro Captured and Generated/
+# Ignore Team Project Local Hub
+Team Projects Local Hub/
+
+
+*.prlock
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
